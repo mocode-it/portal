@@ -31,4 +31,4 @@ https://m.facebook.com/mokhtar.abdelkreem
 
 Telegram :
 
-https://t.me/mo_code
+https://t.me/hk_tricks
