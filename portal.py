@@ -17,7 +17,7 @@ print('''
 \033[1;37m
      		Facebook : mokhtar.abdelkreem
 
-    		Telegram : t.me/mo_code
+    		Telegram : t.me/hk_tricks
 
 	     ----------------------------------
 
